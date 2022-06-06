@@ -9,7 +9,7 @@
 ## Skills 🔧 and expertise⚙️
 
 ***Programming languages***: javascript, python, c, php and mysql.
-***Frameworks***: boostrap
+***Frameworks***: boostrap, django, flask.
 ***CMS***: wordpress
 
 
