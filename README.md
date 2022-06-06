@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**anfepema700/anfepema700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I´M Andrés Felipe Pérez Martínez👋 
 
-Here are some ideas to get you started:
+**Software engineering student at holberton school🧑‍🎓**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻web full stack developer🧑‍💻
+Passionate about technology and its implementation in everyday life
+
+
+
+*Programming languages*: javascript, python, c, php and mysql⚡
+*Frameworks*: boostrap
+*CMS*: wordpress
+*Knowledge* : Digital marketing, management of advertising campaigns on Facebook bussines and Google Ads...
+product manager:
+ciap.com.co
+orfy.com.co
+
+Social networks
+[Linkeind](https://www.linkedin.com/in/andr%C3%A9s-felipe-p%C3%A9rez-mart%C3%ADnez-60b593179/): - [Twitter:](https://twitter.com/andres97083145) - [github:](https://github.com/anfepema700) - [Facebook:](https://www.facebook.com/anfepema700/) - [Instagram:](https://www.instagram.com/perezmartinezandresfelipe/) 
