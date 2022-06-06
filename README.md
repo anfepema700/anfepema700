@@ -20,4 +20,4 @@
 ***product manager**: [ciap.com.co](https://ciap.com.co) --- [orfy.com.co](https://orfy.com.co)
 
 ## Contact:
-[Linkeind](https://www.linkedin.com/in/andr%C3%A9s-felipe-p%C3%A9rez-mart%C3%ADnez-60b593179/): - [Twitter:](https://twitter.com/andres97083145) - [github:](https://github.com/anfepema700) - [Facebook:](https://www.facebook.com/anfepema700/) - [Instagram:](https://www.instagram.com/perezmartinezandresfelipe/) 
+[Linkeind](https://www.linkedin.com/in/andr%C3%A9s-felipe-p%C3%A9rez-mart%C3%ADnez-60b593179/): - [Twitter](https://twitter.com/andres97083145) - [github   ](https://github.com/anfepema700) - [Facebook](https://www.facebook.com/anfepema700/) - [Instagram](https://www.instagram.com/perezmartinezandresfelipe/) 
