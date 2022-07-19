@@ -8,7 +8,7 @@
 
 ## Skills 🔧 and expertise⚙️
 
-***Programming languages***: Html, Css
+***Programming languages***: Html, Css, python, C
 
 ***Frameworks***: boostrap
 
