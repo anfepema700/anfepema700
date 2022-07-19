@@ -1,6 +1,6 @@
 # Hi there, I´M Andrés Felipe Pérez Martínez👋 
 
-**Software engineering student at holberton school🧑‍🎓**
+**Software Developer at holberton school🧑‍🎓**
 
 🧑‍💻***web full stack developer***🧑‍💻
 
@@ -8,10 +8,9 @@
 
 ## Skills 🔧 and expertise⚙️
 
-***Programming languages***: javascript, python, c, php and mysql.
+***Programming languages***: Html, Css
 
-
-***Frameworks***: boostrap, django, flask.
+***Frameworks***: boostrap
 
 ***CMS***: wordpress
 
