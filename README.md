@@ -1,6 +1,7 @@
 # Hi there, I´M Andrés Felipe Pérez Martínez👋 
 
-**Software Developer at holberton school🧑‍🎓**
+**Software Developer student at holberton school🧑‍🎓**
+
 
 🧑‍💻***web full stack developer***🧑‍💻
 
@@ -8,17 +9,15 @@
 
 ## Skills 🔧 and expertise⚙️
 
-***Programming languages***: Html, Css, python, C
+***Programming languages***: Html, Css, python, C, php, javascript.
 
-***Frameworks***: boostrap
+***Frameworks***: Angular.
 
 ***CMS***: wordpress
 
 
 ***Knowledge*** : Digital marketing, management of advertising campaigns on Facebook bussines and Google Ads...
 
-
-***product manager***: [ciap.com.co](https://ciap.com.co) --- [orfy.com.co](https://orfy.com.co)
 
 ## Contact:
 [Linkeind](https://www.linkedin.com/in/anfepema700/): - [Twitter](https://twitter.com/andres97083145) - [github   ](https://github.com/anfepema700) - [Facebook](https://www.facebook.com/anfepema700/) - [Instagram](https://www.instagram.com/perezmartinezandresfelipe/) 
